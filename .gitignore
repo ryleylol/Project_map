@@ -1,0 +1,26 @@
+# Compiled binaries
+*.bin
+*.elf
+*.hex
+
+# Arduino build directories
+build/
+*.d
+*.o
+
+# Mac system files
+.DS_Store
+
+# VS Code project settings
+.vscode/
+
+# Python cache (if you use Python tools/scripts)
+__pycache__/
+*.pyc
+
+# Logs or temp files
+*.log
+*.tmp
+
+# Backup files (from editors)
+*~
